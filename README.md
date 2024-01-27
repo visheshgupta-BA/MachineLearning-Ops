@@ -1,4 +1,4 @@
-# MachineLearning-Ops
+# Machine Learning-Operations
 
 
 # The Machine Learning Project Lifecycle
