@@ -3,6 +3,8 @@
 ## Overview
 MLOps Foundation, a set of services designed to simplify Machine Learning Operations (MLOps) for data scientists and ML engineers. In collaboration with Craig Wiley, Director of Product Management, Cloud AI and Industry Solutions, they've created tools to help your business harness the power of AI efficiently.
 
+![Key Foundation](https://github.com/visheshgupta-BA/MachineLearning-Ops/blob/main/Image/Key_Foundation.png)
+
 ## Key Requirements
 As of September 1, 2020, McKinsey Global Institute predicts that companies fully embracing AI in their workflows by 2025 will experience a +120% cash flow growth by 2030. However, managing Machine Learning (ML) systems poses challenges such as technical debt, unique dependencies, and the need for continuous testing and validation.
 
